@@ -1,0 +1,11 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"DESCRIPTION";"DIGI-KEY_PART_NUMBER";"MF";"MP";"MPN";"OC_FARNELL";"OC_NEWARK";"PACKAGE";"POPULARITY";"PURCHASE-URL";"SPICEPREFIX";
+"1";"";"KK-156-2";"KK-156-2";"X3";"KK 156 HEADER";"";"";"MOLEX";"";"";"unknown";"unknown";"";"10";"";"";
+"2";"";"KK-156-3";"KK-156-3";"X1, X5";"KK 156 HEADER";"";"";"MOLEX";"";"";"unknown";"unknown";"";"1";"";"";
+"1";"";"R-EU_R0805";"R0805";"R1";"RESISTOR, European symbol";"";"";"";"";"";"";"";"";"86";"";"R";
+"1";"0.1uF";"C-EUC0805";"C0805";"C2";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"88";"";"C";
+"1";"2.2uF";"C-EUC0805";"C0805";"C6";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"88";"";"C";
+"1";"22uF";"C-EUC0805";"C0805";"C3";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"88";"";"C";
+"1";"4.7uF";"C-EUC0805";"C0805";"C5";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"88";"";"C";
+"1";"5600pF";"C-EUC0805";"C0805";"C1";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"88";"";"C";
+"1";"MAXM17634AMG+";"MAXM17634AMG+";"QFN50P400X400X180-25N";"U1";"High-Efficiency Synchronous Buck Regulator Offers Balance of High Performance, Wide Temperature Range, and Small Size";" Buck Switching Regulator IC Positive Fixed 5V 1 Output 2A 24-SMD Module Exposed Pad ";"175-MAXM17634AMG+TTR-ND";"Maxim Integrated";"MAXM17634AMG+";"";"";"";"SMD-24 Maxim Integrated";"";"https://pricing.snapeda.com/search/part/MAXM17634AMG+/?ref=eda";"";
+"1";"TEENSY3.6";"TEENSY3.6";"TEENSY3.6";"U$1";"";"";"";"";"";"";"";"";"";"";"";"";
